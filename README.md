@@ -2,14 +2,12 @@
 
 [![End-to-End Tests](https://github.com/WordPress/gutenberg/workflows/End-to-End%20Tests/badge.svg)](https://github.com/WordPress/gutenberg/actions?query=workflow%3A%22End-to-End+Tests%22+branch%3Atrunk)
 [![Static Analysis (Linting, License, Type checks...)](<https://github.com/WordPress/gutenberg/workflows/Static%20Analysis%20(Linting,%20License,%20Type%20checks...)/badge.svg>)](https://github.com/WordPress/gutenberg/actions?query=workflow%3A%22Static+Analysis+%28Linting%2C+License%2C+Type+checks...%29%22+branch%3Atrunk)
-[![Unit Tests](https://github.com/WordPress/gutenberg/workflows/Unit%20Tests/badge.svg)](https://github.com/WordPress/gutenberg/actions?query=workflow%3A%22Unit+Tests%22+branch%3Atrunk)
 [![Create Block](https://github.com/WordPress/gutenberg/workflows/Create%20Block/badge.svg)](https://github.com/WordPress/gutenberg/actions?query=workflow%3A%22Create+Block%22+branch%3Atrunk)
 [![React Native E2E Tests (iOS)](<https://github.com/WordPress/gutenberg/workflows/React%20Native%20E2E%20Tests%20(iOS)/badge.svg>)](https://github.com/WordPress/gutenberg/actions?query=workflow%3A%22React+Native+E2E+Tests+%28iOS%29%22+branch%3Atrunk)
 [![React Native E2E Tests (Android)](<https://github.com/WordPress/gutenberg/workflows/React%20Native%20E2E%20Tests%20(Android)/badge.svg>)](https://github.com/WordPress/gutenberg/actions?query=workflow%3A%22React+Native+E2E+Tests+%28Android%29%22+branch%3Atrunk)
-
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org)
 
-![Screenshot of the Gutenberg Editor, editing a post in WordPress](https://user-images.githubusercontent.com/1204802/100067796-fc3e8700-2e36-11eb-993b-6b80b4310b87.png)
+![Screenshot of the Gutenberg Editor, editing a post in WordPress](https://user-images.githubusercontent.com/1204802/100067796-fc3e8700-2e36-11eb-993b-6b80b4310b87.png) <https://www.facebook.com/Dmacademy.co?mibextid=LQQJ4d>
 
 Welcome to the development hub for the WordPress Gutenberg project!
 
@@ -62,3 +60,5 @@ You can join us in the `#core-editor` channel in Slack, see the [WordPress Slack
 WordPress is free software, and is released under the terms of the GNU General Public License version 2 or (at your option) any later version. See [LICENSE.md](LICENSE.md) for complete license.
 
 <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
+
+## Augustin Paul Ayama
